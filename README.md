@@ -1,1 +1,1 @@
-# http://victorhoffmann.github.io/index.html
+# http://victorhoffmann.github.io/
